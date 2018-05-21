@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head> Kelly's visit to Singapore </head>
+<body>
+<p> team pic <br>
+<img src="image1.jpeg" width=300 height=200>
+<img src="image2.jpeg" width=300 height=200>
+</p>
+</body>
+</html>
